@@ -6,7 +6,7 @@ Celem wydarzenia jest poznanie podstaw języka C# oraz stworzenie prostej aplika
 
 Termin
 
-24 października 2026 r., godz. 10:00–14:00.
+24 listopada 2026 r., godz. 10:00–14:00.
 
 Miejsce
 
