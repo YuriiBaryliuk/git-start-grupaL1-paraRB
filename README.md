@@ -22,5 +22,5 @@ Aby wziąć udział, należy wysłać zgłoszenie na adres warsztaty@example.com
 
 Pytania
 
-Więcej informacji znajduje się w pliku \[Pytania uczestników](FAQ.md).
+Więcej informacji znajduje się w pliku [Pytania uczestników](FAQ.md).
 
